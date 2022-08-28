@@ -1,0 +1,23 @@
+body{
+    background: #FFFBEE
+}
+header nav img{
+    width: 100px;
+} 
+header li{
+    MARGIN: 0px 30px;
+}
+header li a{
+    color: white;
+}
+header{
+    
+    width: 1800px;
+    height: 79px;
+    background-color: #363636
+}
+#space {
+    position: absolute;
+    bottom: 150px;
+    right: 400px;
+}
